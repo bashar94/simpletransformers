@@ -7,7 +7,7 @@ wandb/
 **/cache_dir
 **/runs
 **/outputs
-**/data
+
 
 # manual_test_scripts
 test_scripts/
